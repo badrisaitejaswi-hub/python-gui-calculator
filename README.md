@@ -18,3 +18,6 @@ This is a basic calculator developed using Python Tkinter GUI.
 1. Save the file as `calculator.py`
 2. Run the program:
    python calculator.py
+
+## Output Screenshot
+![Calculator Output](output.png)
